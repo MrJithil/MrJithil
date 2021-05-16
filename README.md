@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrJithil
-- 👀 I’m interested in Technologies built on top of JavaScript/TypeScript
-- 🌱 I’m currently learning. Not Currently. Keeps learning Data structures ang alogorithms.
-- 💞️ I’m looking to collaborate on Projects built on top of JavaScript/TypeScript
+- 👀 Interested in Technologies built on top of JavaScript/TypeScript.
+- 🌱 Currently learning. Not Currently. Keeps learning Data structures and alogorithms. And new technologies too.
+- 💞️ Looking forward to collaborate on Projects built on top of JavaScript/TypeScript.
 - 📫 You could reache me out here https://in.linkedin.com/in/jithil
 
 <!---
