@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/jithil](https://in.linkedin.com/in/jithil)
 
+<img src="https://images.credly.com/size/340x340/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" alt="Jithil P Ponnan"></img>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
