@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jithil P Ponnan</h1>
-<h3 align="center">Fullstack Developer and Open Source Contributor</h3>
+# Jithil P Ponnan
+**Senior Software Engineer**  
+📧 jithil@outlook.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/jithil) | [GitHub](https://www.github.com/mrjithil)  
+📍 Sydney, NSW, Australia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjithil&label=Profile%20views&color=0e75b6&style=flat" alt="mrjithil" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjithil" alt="mrjithil" /></a> </p>
+Senior Software Engineer with 12+ years of experience in designing and scaling front-end and back-end applications for massive user bases. Expert in building web frameworks using front-end frameworks including Angular, React, RxJS, Redux and integrating AI-driven systems. Proven success in reducing costs, optimizing performance, and leading cross-functional teams. Active contributor to Node.js open-source projects and skilled in cloud platforms (AWS, GCP) with a focus on distributed systems.
 
-<p align="left"> <a href="https://in.linkedin.com/in/jithil" target="blank">Connect Me on LinkedIn</a> </p>
+---
 
-- 🔭 I’m currently working on **KORE Wireless**
+## Skills
 
-- 🌱 I’m currently learning **Clean Code**
+| Programming Languages  | Web Frameworks/Libraries | API Development | Cloud & Infrastructure  | Others             |
+| ---------------------- | ------------------------ | ---------------- | ----------------------- | ------------------ |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) Grafana, Prometheus, Redis, TDD, System Architecture, Microservices, Distributed Systems |
 
-- 👯 I’m looking to collaborate on **Opensource projects which built on top of JavaScript/TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MrJithil](https://github.com/MrJithil)
-
-- 💬 Ask me about **Node.js, Angular, JavaScript and TypeScript**
+---
 
 - 📫 How to reach me **https://in.linkedin.com/in/jithil**
 
