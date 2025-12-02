@@ -3,7 +3,7 @@
 **Senior Software Engineer**  
 📧 jithil@outlook.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/jithil) | [GitHub](https://www.github.com/mrjithil) | [LeetCode](https://leetcode.com/u/JithiL/)   
-📍 I will be in *Kochi India* or *Sydney NSW AU* or in * Another Geo Lat Long*. Because, I love Travel.
+📍 I will be in *Kochi India* or *Sydney NSW AU* or in *Another Geo Lat Long*. Because, I love Travel.
 
 ---
 
