@@ -2,7 +2,7 @@
 
 **Senior Software Engineer**  
 📧 jithil@outlook.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/jithil) | [GitHub](https://www.github.com/mrjithil)  
+🌐 [LinkedIn](https://www.linkedin.com/in/jithil) | [GitHub](https://www.github.com/mrjithil) | [LeetCode](https://leetcode.com/u/JithiL/)   
 📍 I will be in Kochi, Kerala, India or Sydney, NSW, AU. I love more agility.
 
 ---
